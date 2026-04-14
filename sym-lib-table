@@ -1,4 +1,4 @@
 (sym_lib_table
 	(version 7)
-	(lib (name "lol") (type "KiCad") (uri "/home/pietro/kicad/pandahat") (options "") (descr ""))
+	(lib (name "lol") (type "KiCad") (uri "${KIPRJMOD}/easyeda2kicad.kicad_sym") (options "") (descr ""))
 )

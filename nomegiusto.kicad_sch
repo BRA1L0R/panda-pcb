@@ -1387,16 +1387,6 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 140.97) (xy 106.68 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "89774d4f-92cf-4793-bf31-14326f1654a7")
-	)
-	(wire
-		(pts
 			(xy 29.21 127) (xy 29.21 138.43)
 		)
 		(stroke
@@ -2025,16 +2015,6 @@
 		)
 		(uuid "b0b21822-2c2b-4b35-bb6f-b9fb6b3616da")
 	)
-	(label "ANALOG0"
-		(at 106.68 146.05 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "b4f995d6-caca-45c1-8c80-678ffa147b1b")
-	)
 	(label "INPUT6"
 		(at 105.41 52.07 180)
 		(effects
@@ -2124,16 +2104,6 @@
 			(justify right bottom)
 		)
 		(uuid "f2125d59-6e6a-459b-8b45-ee17456d83c6")
-	)
-	(label "ANALOG1"
-		(at 106.68 148.59 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "fa00dd59-e267-45b3-8b71-5d439aa605df")
 	)
 	(label "INPUT8"
 		(at 57.15 104.14 180)
@@ -2912,169 +2882,6 @@
 			(project "pandahat"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
 					(reference "CN4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 106.68 140.97 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7d956a93-a023-4f15-aad0-7cd6345867b9")
-		(property "Reference" "#PWR092"
-			(at 106.68 134.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 106.68 135.89 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 106.68 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 106.68 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 106.68 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "00a1a799-2024-4e45-90a7-08e3ff8d8905")
-		)
-		(instances
-			(project "pandahat"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
-					(reference "#PWR092")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x03")
-		(at 111.76 146.05 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "80e7d37f-0908-4fcf-8777-1f775b78b902")
-		(property "Reference" "J21"
-			(at 114.3 144.7799 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x03"
-			(at 114.3 147.3199 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 111.76 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 111.76 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 111.76 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "2c94d094-b24f-4034-9721-41f13480dccc")
-		)
-		(pin "3"
-			(uuid "a4e32e22-c2f1-420d-8e0d-44165afb32a6")
-		)
-		(pin "1"
-			(uuid "b4d85a1a-3a91-4894-add3-0ddffc9d5d4b")
-		)
-		(instances
-			(project "pandahat"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
-					(reference "J21")
 					(unit 1)
 				)
 			)
