@@ -2599,6 +2599,197 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "lol:CYA0650-47UH"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "L"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CYA0650-47UH"
+				(at 0 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:IND-SMD_L7.2-W6.6_GPSR07X0"
+				(at 0 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/datasheet/C5189938.pdf"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "SHOU HAN(首韩)"
+				(at 0 -12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "CYA0650-47UH"
+				(at 0 -15.24 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC Part" "C5189938"
+				(at 0 -17.78 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "Inductors (SMD)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "CYA0650-47UH_0_1"
+				(arc
+					(start -4.06 0.01)
+					(mid -3.035 1.0102)
+					(end -2.03 -0.01)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -2.03 0.01)
+					(mid -1.005 1.0102)
+					(end 0 -0.01)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 0.01)
+					(mid 1.0249 1.0101)
+					(end 2.03 -0.01)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 2.03 0.01)
+					(mid 3.0549 1.0101)
+					(end 4.06 -0.01)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 1.27)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 1.27)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "lol:FC-2012HRK-620D"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2797,197 +2988,6 @@
 					(at 5.08 -1.27 180)
 					(length 3.81)
 					(name "+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "lol:FXL0630-6R8-M"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "L"
-				(at 0 5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "FXL0630-6R8-M"
-				(at 0 -5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "easyeda2kicad:IND-SMD_L7.0-W6.6"
-				(at 0 -7.62 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "https://lcsc.com/product-detail/Power-Inductors_6-8uH-20_C167221.html"
-				(at 0 -10.16 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer" "cjiang(长江微电)"
-				(at 0 -12.7 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "MPN" "FXL0630-6R8-M"
-				(at 0 -15.24 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "LCSC Part" "C167221"
-				(at 0 -17.78 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "Power Inductors"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "FXL0630-6R8-M_0_1"
-				(arc
-					(start -4.29 0.02)
-					(mid -3.28 0.9646)
-					(end -2.27 0.02)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -2.13 0.02)
-					(mid -1.12 0.9646)
-					(end -0.11 0.02)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0.02 0.02)
-					(mid 1.03 0.9646)
-					(end 2.04 0.02)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 2.21 0.02)
-					(mid 3.22 0.9646)
-					(end 4.23 0.02)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at -5.08 0 0)
-					(length 1.27)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 5.08 0 180)
-					(length 1.27)
-					(name "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4849,22 +4849,22 @@
 		(uuid "02bbac6e-d226-46db-a955-de8567b9b899")
 	)
 	(junction
-		(at 86.36 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "034c2129-dd79-4df0-9620-339c4a2f5825")
-	)
-	(junction
-		(at 129.54 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0a4c3f93-8384-4d07-a879-443102ab3d01")
-	)
-	(junction
 		(at 175.26 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "19d16834-535c-402a-8299-f3adef2676f8")
+	)
+	(junction
+		(at 68.58 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2df9e836-3a23-471a-be8d-0985d15a4ba3")
+	)
+	(junction
+		(at 180.34 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2f31db51-8958-405f-a4fc-9c8dad49e7ca")
 	)
 	(junction
 		(at -22.86 83.82)
@@ -4939,16 +4939,16 @@
 		(uuid "bc6ea1d6-9153-4e9a-873d-2f8f9d298b91")
 	)
 	(junction
+		(at 129.54 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "be938040-6cf6-49cd-86f2-de1b643602ff")
+	)
+	(junction
 		(at 200.66 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bf8fca28-e353-4b86-9fda-b617e955c7ad")
-	)
-	(junction
-		(at 180.34 43.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cd015149-614b-4c95-affb-3d9c474095a0")
 	)
 	(junction
 		(at 207.01 53.34)
@@ -5106,6 +5106,16 @@
 	)
 	(wire
 		(pts
+			(xy 68.58 33.02) (xy 71.12 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5098f574-5a15-4128-9ded-44baa3bdbed9")
+	)
+	(wire
+		(pts
 			(xy 137.16 44.45) (xy 129.54 44.45)
 		)
 		(stroke
@@ -5176,23 +5186,13 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 33.02) (xy 86.36 34.29)
+			(xy 68.58 33.02) (xy 68.58 34.29)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "80eb5576-b1d0-4b87-bd0c-f6ca8f527b25")
-	)
-	(wire
-		(pts
-			(xy 137.16 44.45) (xy 137.16 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "82508a52-a577-4f7a-9db0-219110ae1352")
 	)
 	(wire
 		(pts
@@ -5276,7 +5276,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 33.02) (xy 71.12 33.02)
+			(xy 66.04 33.02) (xy 68.58 33.02)
 		)
 		(stroke
 			(width 0)
@@ -5316,16 +5316,6 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 33.02) (xy 129.54 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b493382f-b5be-44e7-8acc-67c40326e481")
-	)
-	(wire
-		(pts
 			(xy 207.01 43.18) (xy 207.01 44.45)
 		)
 		(stroke
@@ -5333,16 +5323,6 @@
 			(type default)
 		)
 		(uuid "b4f0d798-4113-4196-993a-dd7105b42e4c")
-	)
-	(wire
-		(pts
-			(xy 81.28 33.02) (xy 86.36 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b8b899c8-2096-46b7-a2f2-912cbc55d1fc")
 	)
 	(wire
 		(pts
@@ -5396,16 +5376,6 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 33.02) (xy 91.44 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d6d32c58-317d-40ae-83b2-f6f0a9c7ca81")
-	)
-	(wire
-		(pts
 			(xy -43.18 73.66) (xy -43.18 82.55)
 		)
 		(stroke
@@ -5433,6 +5403,16 @@
 			(type default)
 		)
 		(uuid "e2fce86c-74af-4762-9f03-8856983985e4")
+	)
+	(wire
+		(pts
+			(xy 81.28 33.02) (xy 91.44 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4761917-499e-4835-a695-06b6a885beb9")
 	)
 	(wire
 		(pts
@@ -5720,6 +5700,85 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VPP")
+		(at 119.38 33.02 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "151242a0-6843-46bd-ae77-c4d9550c541f")
+		(property "Reference" "#PWR050"
+			(at 123.19 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "VPP"
+			(at 115.57 33.0199 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 119.38 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VPP\""
+			(at 119.38 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "dff51ea1-3746-461c-be87-76eb42dd3b69")
+		)
+		(instances
+			(project "pandahat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/f51746d7-69da-4198-8277-4bbbd0b0f7d7"
+					(reference "#PWR050")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at -48.26 92.71 90)
 		(unit 1)
@@ -5907,6 +5966,118 @@
 			(project "pandahat"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/f51746d7-69da-4198-8277-4bbbd0b0f7d7"
 					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "lol:CYA0650-47UH")
+		(at 190.5 43.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "231e8cc5-8efa-43bc-a94d-07acc85e53e8")
+		(property "Reference" "L2"
+			(at 190.5 40.64 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "47uH"
+			(at 190.5 45.212 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:IND-SMD_L7.2-W6.6_GPSR07X0"
+			(at 190.5 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5189938.pdf"
+			(at 190.5 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 190.5 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "SHOU HAN(首韩)"
+			(at 190.5 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CYA0650-47UH"
+			(at 190.5 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C5189938"
+			(at 190.5 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "2f04d347-c5c9-43c6-b43e-646e5966bd59")
+		)
+		(pin "1"
+			(uuid "c762d5cb-1cc8-4e19-a102-88fccb663509")
+		)
+		(instances
+			(project "pandahat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/f51746d7-69da-4198-8277-4bbbd0b0f7d7"
+					(reference "L2")
 					(unit 1)
 				)
 			)
@@ -7048,8 +7219,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VPP")
-		(at 123.19 33.02 90)
+		(lib_id "lol:SS54_C22452")
+		(at 124.46 33.02 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7057,21 +7228,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "603e648b-9cce-4313-a32d-a616659d2041")
-		(property "Reference" "#PWR050"
-			(at 127 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "VPP"
-			(at 119.38 33.0199 90)
+		(uuid "6612e7c7-9d86-4e32-8766-6ea86d7910ad")
+		(property "Reference" "D29"
+			(at 124.206 35.814 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7081,8 +7240,20 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 123.19 33.02 0)
+		(property "Value" "SS54_C22452"
+			(at 123.5701 35.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:SMA_L4.4-W2.8-LS5.4-R-RD"
+			(at 124.46 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7092,8 +7263,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 123.19 33.02 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_SS54_C22452.html"
+			(at 124.46 22.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7103,8 +7274,8 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"VPP\""
-			(at 123.19 33.02 0)
+		(property "Description" "SS54"
+			(at 124.46 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7113,14 +7284,50 @@
 					(size 1.27 1.27)
 				)
 			)
+		)
+		(property "Manufacturer" "MDD(辰达半导体)"
+			(at 124.46 20.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SS54"
+			(at 124.46 17.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C22452"
+			(at 124.46 15.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "38944f7e-41ec-4e95-a295-367abe5fa68a")
 		)
 		(pin "1"
-			(uuid "1321716e-c510-4e28-a56a-7cee37c8046e")
+			(uuid "ca7937ed-b7d5-41b9-9592-195dbbf8fec8")
 		)
 		(instances
 			(project "pandahat"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/f51746d7-69da-4198-8277-4bbbd0b0f7d7"
-					(reference "#PWR050")
+					(reference "D29")
 					(unit 1)
 				)
 			)
@@ -7856,119 +8063,6 @@
 			(project "pandahat"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/f51746d7-69da-4198-8277-4bbbd0b0f7d7"
 					(reference "#PWR028")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "lol:FXL0630-6R8-M")
-		(at 190.5 43.18 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "7321c7b7-7e7a-4b5f-9d73-bab510513501")
-		(property "Reference" "L2"
-			(at 190.5 40.132 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "FXL0630-6R8-M"
-			(at 190.47 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "easyeda2kicad:IND-SMD_L7.0-W6.6"
-			(at 190.5 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Power-Inductors_6-8uH-20_C167221.html"
-			(at 190.5 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 190.5 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "cjiang(长江微电)"
-			(at 190.5 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "FXL0630-6R8-M"
-			(at 190.5 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C167221"
-			(at 190.5 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "cdaa7351-e8c3-403b-9027-ecef83c3dd59")
-		)
-		(pin "1"
-			(uuid "16ccca98-62fd-4c1b-9749-17a336814aee")
-		)
-		(instances
-			(project "pandahat"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/f51746d7-69da-4198-8277-4bbbd0b0f7d7"
-					(reference "L2")
 					(unit 1)
 				)
 			)
@@ -8868,7 +8962,7 @@
 	)
 	(symbol
 		(lib_id "lol:SMBJ13CA_C19077568")
-		(at 86.36 39.37 90)
+		(at 68.58 39.37 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8878,7 +8972,7 @@
 		(dnp no)
 		(uuid "948cb560-8828-4d39-9b38-5eb9162b51ba")
 		(property "Reference" "D1"
-			(at 81.788 37.338 90)
+			(at 64.008 37.338 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8889,7 +8983,7 @@
 			)
 		)
 		(property "Value" "SMBJ13CA_C19077568"
-			(at 66.548 40.132 90)
+			(at 48.768 40.132 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8901,7 +8995,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:SMB_L4.6-W3.6-LS5.4-BI"
-			(at 93.98 39.37 0)
+			(at 76.2 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8912,7 +9006,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C19077568.pdf"
-			(at 96.52 39.37 0)
+			(at 78.74 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8923,7 +9017,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 86.36 39.37 0)
+			(at 68.58 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8934,7 +9028,7 @@
 			)
 		)
 		(property "Manufacturer" "R+O(宏嘉诚)"
-			(at 99.06 39.37 0)
+			(at 81.28 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8945,7 +9039,7 @@
 			)
 		)
 		(property "MPN" "SMBJ13CA"
-			(at 101.6 39.37 0)
+			(at 83.82 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8956,7 +9050,7 @@
 			)
 		)
 		(property "LCSC Part" "C19077568"
-			(at 104.14 39.37 0)
+			(at 86.36 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10453,7 +10547,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 86.36 44.45 0)
+		(at 68.58 44.45 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10464,7 +10558,7 @@
 		(fields_autoplaced yes)
 		(uuid "ded4db56-620b-442c-9c4d-95c1b010564e")
 		(property "Reference" "#PWR048"
-			(at 86.36 50.8 0)
+			(at 68.58 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10475,7 +10569,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 88.9 45.7199 0)
+			(at 71.12 45.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10486,7 +10580,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 86.36 44.45 0)
+			(at 68.58 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10497,7 +10591,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 44.45 0)
+			(at 68.58 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10508,7 +10602,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 86.36 44.45 0)
+			(at 68.58 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

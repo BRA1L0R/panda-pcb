@@ -2126,7 +2126,7 @@
 		)
 		(uuid "16b5e600-a866-4dd5-8527-1352015868b5")
 	)
-	(hierarchical_label "UARTX_RX"
+	(hierarchical_label "UART_RX"
 		(shape input)
 		(at 153.67 24.13 0)
 		(effects

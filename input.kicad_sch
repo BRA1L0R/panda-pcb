@@ -941,10 +941,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4ccc7897-e8a7-4749-be15-fe55ac232833")
 		(property "Reference" "D4"
-			(at 58.42 41.6549 90)
+			(at 57.658 43.18 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -956,6 +955,7 @@
 		)
 		(property "Value" "1N5819WS"
 			(at 58.42 44.1949 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1214,10 +1214,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9961a133-350a-450d-b288-99f210e678c5")
 		(property "Reference" "D3"
-			(at 58.42 31.4949 90)
+			(at 57.404 33.02 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1229,6 +1228,7 @@
 		)
 		(property "Value" "1N5819WS"
 			(at 58.42 34.0349 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
