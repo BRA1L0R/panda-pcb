@@ -140,7 +140,7 @@
         "min_copper_edge_clearance": 0.05,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.0,
-        "min_hole_to_hole": 0.25,
+        "min_hole_to_hole": 0.2,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
@@ -150,7 +150,7 @@
         "min_through_hole_diameter": 0.15,
         "min_track_width": 0.2,
         "min_via_annular_width": 0.05,
-        "min_via_diameter": 0.4,
+        "min_via_diameter": 0.3,
         "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
@@ -802,6 +802,22 @@
     [
       "0db4e304-8916-4ab7-82cc-4615c09971e8",
       "INPUT10"
+    ],
+    [
+      "84b25bd1-76fc-4c43-8b06-26552bb67a13",
+      "Gpio expose5"
+    ],
+    [
+      "799639a6-16e0-48f7-9e85-1877009bcdd9",
+      "Gpio expose6"
+    ],
+    [
+      "bdd45bb5-0741-49b1-aa55-535a5a5f1663",
+      "Gpio expose7"
+    ],
+    [
+      "7cc30391-b197-47e7-a373-9fc6ed89e5a8",
+      "Gpio expose8"
     ]
   ],
   "text_variables": {},

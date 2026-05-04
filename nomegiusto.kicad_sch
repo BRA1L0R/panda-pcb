@@ -315,6 +315,160 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "lol:0603WAF1002T5E"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "0603WAF1002T5E"
+				(at 0 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:R0603"
+				(at 0 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_10KR-1002-1_C25804.html"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "10KΩ (1002) ±1%"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "UNI-ROYAL(厚声)"
+				(at 0 -12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "0603WAF1002T5E"
+				(at 0 -15.24 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC Part" "C25804"
+				(at 0 -17.78 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "Resistors"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "0603WAF1002T5E_0_1"
+				(rectangle
+					(start -2.54 1.02)
+					(end 2.54 -1.02)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "lol:0603WAF1500T5E"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -840,6 +994,337 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "lol:B4B-PH-K-S"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "CN8"
+				(at -3.556 6.858 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Value" "JST 4PIN"
+				(at -3.556 8.89 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:CONN-TH_B4B-PH-K-S"
+				(at 0 -15.24 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/PH-Connectors_JST_B4B-PH-K-S-LF-SN_B4B-PH-K-S-LF-SN_C131334.html"
+				(at 0 -17.78 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "JST"
+				(at 0 -20.32 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "B4B-PH-K-S(LF)(SN)"
+				(at 0 -22.86 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC Part" "C131334"
+				(at 0 -25.4 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "Wire To Board / Wire To Wire Connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "B4B-PH-K-S_0_1"
+				(rectangle
+					(start -2.54 10.16)
+					(end 1.27 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at 6.35 8.89 180)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 6.35 6.35 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 6.35 3.81 180)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 6.35 1.27 180)
+					(length 5.08)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:+3.3V"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "+3.3V"
+				(at 0 3.556 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "+3.3V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+3.3V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:GND"
 			(power global)
 			(pin_numbers
@@ -1095,6 +1580,18 @@
 			(embedded_fonts no)
 		)
 	)
+	(junction
+		(at 85.09 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8c42b11c-1acf-4bc1-aa1f-d7161aee3bec")
+	)
+	(junction
+		(at 149.86 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e27a252d-8fd7-45ba-827d-014159a1320d")
+	)
 	(wire
 		(pts
 			(xy 46.99 104.14) (xy 57.15 104.14)
@@ -1197,16 +1694,6 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 24.13) (xy 111.76 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1bd323f3-881d-4b2c-8848-2b63ca299f3c")
-	)
-	(wire
-		(pts
 			(xy 46.99 63.5) (xy 57.15 63.5)
 		)
 		(stroke
@@ -1217,13 +1704,33 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 72.39) (xy 111.76 72.39)
+			(xy 152.4 49.53) (xy 152.4 62.23)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "24d78ea1-b09a-41bf-83bc-bd321cdd1415")
+		(uuid "20178f81-9eb4-4f49-adb8-4e84026ff0ec")
+	)
+	(wire
+		(pts
+			(xy 160.02 102.87) (xy 165.1 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "241eedbd-ed7f-45f7-9d52-ecc5c1f7ecbe")
+	)
+	(wire
+		(pts
+			(xy 105.41 74.93) (xy 111.76 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26be69b2-27fd-48a4-875c-959e92814e78")
 	)
 	(wire
 		(pts
@@ -1234,6 +1741,26 @@
 			(type default)
 		)
 		(uuid "2e1035e1-0b00-4f43-a3b2-e21024d673bb")
+	)
+	(wire
+		(pts
+			(xy 105.41 72.39) (xy 111.76 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31219135-d562-4e37-a9f8-a062ad3842f0")
+	)
+	(wire
+		(pts
+			(xy 85.09 97.79) (xy 85.09 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "315ce053-e47d-4cb8-a7e9-7c980dfe74ac")
 	)
 	(wire
 		(pts
@@ -1297,6 +1824,26 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 49.53) (xy 152.4 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b0b7fbb-2cbc-462b-9e86-ca250e664b56")
+	)
+	(wire
+		(pts
+			(xy 95.25 97.79) (xy 100.33 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b5234e0-2c17-4c67-9135-defef61f5ba8")
+	)
+	(wire
+		(pts
 			(xy 31.75 53.34) (xy 29.21 53.34)
 		)
 		(stroke
@@ -1304,16 +1851,6 @@
 			(type default)
 		)
 		(uuid "5c8d2ca6-ff8a-49f2-8369-29656c8bcc5d")
-	)
-	(wire
-		(pts
-			(xy 105.41 34.29) (xy 111.76 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5cd82ac8-132b-4a63-894a-7fd379217d9d")
 	)
 	(wire
 		(pts
@@ -1347,13 +1884,33 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 74.93) (xy 111.76 74.93)
+			(xy 147.32 44.45) (xy 158.75 44.45)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7606f57d-023c-4f57-a00e-5b1abe86a58d")
+		(uuid "6b5e2892-6ede-4f07-896a-243f842e5782")
+	)
+	(wire
+		(pts
+			(xy 95.25 101.6) (xy 100.33 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6dbdc49a-c02b-423c-a517-d10513847c3d")
+	)
+	(wire
+		(pts
+			(xy 154.94 55.88) (xy 160.02 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "712b711b-937f-4313-b062-74d0daf6c3ed")
 	)
 	(wire
 		(pts
@@ -1377,6 +1934,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 95.25) (xy 149.86 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a13930a-631d-4ecc-8254-1dac0eb3a15e")
+	)
+	(wire
+		(pts
 			(xy 29.21 45.72) (xy 21.59 45.72)
 		)
 		(stroke
@@ -1384,6 +1951,16 @@
 			(type default)
 		)
 		(uuid "7b7dfaa4-91a9-4e88-bbb7-cd7d923cbfee")
+	)
+	(wire
+		(pts
+			(xy 147.32 41.91) (xy 160.02 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a00f967-9172-4a5c-8cee-71bed305e92d")
 	)
 	(wire
 		(pts
@@ -1457,7 +2034,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 116.84) (xy 106.68 119.38)
+			(xy 95.25 116.84) (xy 95.25 119.38)
 		)
 		(stroke
 			(width 0)
@@ -1494,6 +2071,16 @@
 			(type default)
 		)
 		(uuid "9d424806-2fd4-4aad-92d4-4f8a4fa7423f")
+	)
+	(wire
+		(pts
+			(xy 149.86 99.06) (xy 149.86 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a656f258-9dfb-4ce9-afb9-1846e65f13db")
 	)
 	(wire
 		(pts
@@ -1637,13 +2224,23 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 26.67) (xy 111.76 26.67)
+			(xy 160.02 99.06) (xy 165.1 99.06)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cb786197-46e4-435e-822f-2c562cd0fbe9")
+		(uuid "cc772789-3eac-4d09-83de-f8f8142a38cc")
+	)
+	(wire
+		(pts
+			(xy 158.75 49.53) (xy 160.02 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd6146a9-4866-4a46-bcf2-7aa0030079d4")
 	)
 	(wire
 		(pts
@@ -1654,6 +2251,16 @@
 			(type default)
 		)
 		(uuid "d3c392b8-3cbd-48ee-9134-b8f424cd179f")
+	)
+	(wire
+		(pts
+			(xy 158.75 44.45) (xy 158.75 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4649cda-739b-40ac-b140-5bc7693f1f86")
 	)
 	(wire
 		(pts
@@ -1697,6 +2304,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 62.23) (xy 160.02 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dedd5b09-18c6-4460-9ca2-8705486f6d1c")
+	)
+	(wire
+		(pts
 			(xy 46.99 124.46) (xy 57.15 124.46)
 		)
 		(stroke
@@ -1704,6 +2321,26 @@
 			(type default)
 		)
 		(uuid "e0c9d5e7-96da-4937-9607-3b3445cba033")
+	)
+	(wire
+		(pts
+			(xy 154.94 46.99) (xy 154.94 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1f28e81-5cf5-4a79-a54d-acc2ee1b2762")
+	)
+	(wire
+		(pts
+			(xy 85.09 93.98) (xy 85.09 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5103b6a-16fd-4ab4-a53c-5c69082645cb")
 	)
 	(wire
 		(pts
@@ -1734,6 +2371,16 @@
 			(type default)
 		)
 		(uuid "ea65731d-91ab-4505-b3a0-10b38f6e6fef")
+	)
+	(wire
+		(pts
+			(xy 147.32 46.99) (xy 154.94 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb999d95-b730-44fe-8d68-504d6c6643b3")
 	)
 	(wire
 		(pts
@@ -1774,16 +2421,6 @@
 			(type default)
 		)
 		(uuid "fee135ef-b27e-432d-a5ba-8f520f5e6dfd")
-	)
-	(label "LED2"
-		(at 153.67 36.83 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "0268892e-b35a-4399-8270-36c4e213b837")
 	)
 	(label "INPUT6"
 		(at 57.15 83.82 180)
@@ -1855,7 +2492,7 @@
 		)
 		(uuid "2fc364c5-42c9-4fac-953c-a3b7a479973e")
 	)
-	(label "PB11_SDA"
+	(label "IMU_SDA"
 		(at 105.41 67.31 180)
 		(effects
 			(font
@@ -1864,6 +2501,26 @@
 			(justify right bottom)
 		)
 		(uuid "3c5e113a-446d-4e63-a236-f6bd74062804")
+	)
+	(label "LED1"
+		(at 105.41 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3f212e77-bf90-4a57-81e9-0f850ba0151f")
+	)
+	(label "EXTRA_SCL"
+		(at 153.67 34.29 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "411cfcb1-d3d4-4501-bf92-fc530ac7cbd0")
 	)
 	(label "ANALOG1"
 		(at 59.69 148.59 180)
@@ -1874,16 +2531,6 @@
 			(justify right bottom)
 		)
 		(uuid "4881438c-9470-4654-849b-fe00db4348b9")
-	)
-	(label "PB10_SCL"
-		(at 106.68 121.92 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4c329b72-e935-489d-a6f2-f58e545904f7")
 	)
 	(label "INPUT8"
 		(at 105.41 57.15 180)
@@ -1925,7 +2572,7 @@
 		)
 		(uuid "63ef82bb-73b3-443a-a437-09bbcd896b3e")
 	)
-	(label "PB10_SCL"
+	(label "IMU_SCL"
 		(at 105.41 64.77 180)
 		(effects
 			(font
@@ -1955,15 +2602,15 @@
 		)
 		(uuid "7be2cf26-736c-4f49-981f-f5fd2dde2ec7")
 	)
-	(label "LED1"
-		(at 153.67 34.29 180)
+	(label "IMU_SDA"
+		(at 100.33 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
-		(uuid "87e27570-3592-49d4-9f8b-e5a089558b36")
+		(uuid "7e519c28-e50f-4dbc-8251-096239e1b0af")
 	)
 	(label "INPUT7"
 		(at 57.15 93.98 180)
@@ -1974,6 +2621,36 @@
 			(justify right bottom)
 		)
 		(uuid "8dc518c6-f48e-44df-92d7-3707e36704ed")
+	)
+	(label "IMU_SCL"
+		(at 100.33 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "95a69ea7-9837-4f2a-ad91-014196910fa0")
+	)
+	(label "EXTRA_SCL"
+		(at 158.75 120.65 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "97a37d12-d69b-4cbc-b05c-5a58e1b85739")
+	)
+	(label "IMU_SDA"
+		(at 95.25 124.46 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9810f4fe-647a-4a04-8bd3-fb7b5f88d443")
 	)
 	(label "INPUT7"
 		(at 105.41 54.61 180)
@@ -1995,6 +2672,26 @@
 		)
 		(uuid "9bb68149-2800-4159-919d-9932b1f11115")
 	)
+	(label "EXTRA_SCL"
+		(at 165.1 102.87 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a219bf11-cc50-451e-8d64-3d50a98ce7bb")
+	)
+	(label "IMU_SCL"
+		(at 95.25 121.92 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "aa0187a4-f342-42fe-9fa4-a3add1ac05a2")
+	)
 	(label "ANALOG1"
 		(at 105.41 31.75 180)
 		(effects
@@ -2014,6 +2711,16 @@
 			(justify right bottom)
 		)
 		(uuid "b0b21822-2c2b-4b35-bb6f-b9fb6b3616da")
+	)
+	(label "EXTRA_SDA"
+		(at 153.67 36.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b4641c4e-b2b1-4d9f-b49e-da3d678c0007")
 	)
 	(label "INPUT6"
 		(at 105.41 52.07 180)
@@ -2055,6 +2762,26 @@
 		)
 		(uuid "c571b1cc-d413-4e6a-bb01-0fdc20e4b98c")
 	)
+	(label "EXTRA_SDA"
+		(at 158.75 123.19 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c7d50f13-d2a4-4b6f-8473-e74de87423d0")
+	)
+	(label "EXTRA_SDA"
+		(at 165.1 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ced583dd-4458-49f3-875b-4cbfb775c947")
+	)
 	(label "INPUT1"
 		(at 57.15 33.02 180)
 		(effects
@@ -2095,15 +2822,15 @@
 		)
 		(uuid "e10929bf-e6df-4f00-93fa-f53b1bddba64")
 	)
-	(label "PB11_SDA"
-		(at 106.68 124.46 180)
+	(label "LED2"
+		(at 105.41 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
-		(uuid "f2125d59-6e6a-459b-8b45-ee17456d83c6")
+		(uuid "ff944cbb-9369-4976-b795-2adb24d39b07")
 	)
 	(label "INPUT8"
 		(at 57.15 104.14 180)
@@ -2341,8 +3068,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x03")
-		(at 111.76 121.92 0)
+		(lib_id "power:GND")
+		(at 158.75 125.73 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2351,31 +3078,30 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "26e09788-6da3-4cc7-93de-79b7bfb1a183")
-		(property "Reference" "J20"
-			(at 114.3 120.6499 0)
+		(uuid "22fcf0ff-df6a-4e35-970e-c5a718efda68")
+		(property "Reference" "#PWR075"
+			(at 158.75 132.08 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x03"
-			(at 114.3 123.1899 0)
+		(property "Value" "GND"
+			(at 158.75 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 111.76 121.92 0)
+		(property "Footprint" ""
+			(at 158.75 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2386,7 +3112,86 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 111.76 121.92 0)
+			(at 158.75 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 158.75 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b8cf1344-d1fb-4145-b4d4-0c1227bc7862")
+		)
+		(instances
+			(project "pandahat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
+					(reference "#PWR075")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x03")
+		(at 100.33 121.92 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "26e09788-6da3-4cc7-93de-79b7bfb1a183")
+		(property "Reference" "J20"
+			(at 102.87 120.6499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x03"
+			(at 102.87 123.1899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+			(at 100.33 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 100.33 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2397,7 +3202,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 111.76 121.92 0)
+			(at 100.33 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2499,6 +3304,127 @@
 			(project "pandahat"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
 					(reference "#PWR082")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "lol:B4B-PH-K-S")
+		(at 165.1 116.84 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "44626f3a-99c7-4b43-96e9-19b9ed66a587")
+		(property "Reference" "CN8"
+			(at 168.656 123.698 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "JST 4PIN"
+			(at 168.656 125.73 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:CONN-TH_B4B-PH-K-S"
+			(at 165.1 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/PH-Connectors_JST_B4B-PH-K-S-LF-SN_B4B-PH-K-S-LF-SN_C131334.html"
+			(at 165.1 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 165.1 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "JST"
+			(at 165.1 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "B4B-PH-K-S(LF)(SN)"
+			(at 165.1 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C131334"
+			(at 165.1 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2064dfe9-32d2-45f9-a90e-c182476279a2")
+		)
+		(pin "4"
+			(uuid "8391ce68-cc27-43f9-bee4-d636f3f9122d")
+		)
+		(pin "2"
+			(uuid "b04521a9-8729-44a9-a775-5d51aa8b155c")
+		)
+		(pin "3"
+			(uuid "f00725ba-a089-4e6f-9a1f-6a121e086f32")
+		)
+		(instances
+			(project "pandahat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
+					(reference "CN8")
 					(unit 1)
 				)
 			)
@@ -2618,8 +3544,121 @@
 		)
 	)
 	(symbol
+		(lib_id "lol:0603WAF1002T5E")
+		(at 90.17 101.6 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5fecfb36-bb30-4aee-ab23-6fc631ea07e5")
+		(property "Reference" "R26"
+			(at 90.17 107.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0603WAF1002T5E"
+			(at 90.17 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:R0603"
+			(at 90.17 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_10KR-1002-1_C25804.html"
+			(at 90.17 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "10KΩ"
+			(at 90.17 104.902 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(厚声)"
+			(at 90.17 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1002T5E"
+			(at 90.17 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C25804"
+			(at 90.17 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9e9975c0-8c34-4eb2-af1d-ba15037a2d5c")
+		)
+		(pin "2"
+			(uuid "f6a1de23-8f3a-4740-babb-f5b545aa2204")
+		)
+		(instances
+			(project "pandahat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
+					(reference "R26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 106.68 116.84 180)
+		(at 95.25 116.84 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2630,7 +3669,7 @@
 		(fields_autoplaced yes)
 		(uuid "63d829ab-ffda-437d-89eb-97cecde1698f")
 		(property "Reference" "#PWR091"
-			(at 106.68 110.49 0)
+			(at 95.25 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2641,7 +3680,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 106.68 111.76 0)
+			(at 95.25 111.76 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2651,7 +3690,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 106.68 116.84 0)
+			(at 95.25 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2662,7 +3701,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 116.84 0)
+			(at 95.25 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2673,7 +3712,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 106.68 116.84 0)
+			(at 95.25 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2769,6 +3808,118 @@
 			(project "pandahat"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
 					(reference "#PWR088")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "lol:0603WAF1002T5E")
+		(at 154.94 99.06 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "69d2ace1-0af0-46ff-b532-3160e75f3b87")
+		(property "Reference" "R35"
+			(at 154.94 92.71 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0603WAF1002T5E"
+			(at 154.94 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:R0603"
+			(at 154.94 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_10KR-1002-1_C25804.html"
+			(at 154.94 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "10KΩ"
+			(at 154.94 95.758 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(厚声)"
+			(at 154.94 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1002T5E"
+			(at 154.94 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C25804"
+			(at 154.94 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f4a9effb-488c-4e1e-8c85-e7990bcf8131")
+		)
+		(pin "2"
+			(uuid "667b39e0-a824-4cad-a561-58f1f4c6c582")
+		)
+		(instances
+			(project "pandahat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
+					(reference "R35")
 					(unit 1)
 				)
 			)
@@ -3453,6 +4604,118 @@
 		)
 	)
 	(symbol
+		(lib_id "lol:0603WAF1002T5E")
+		(at 90.17 97.79 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c96ffc62-1e74-478e-8fa2-4505224f77b2")
+		(property "Reference" "R25"
+			(at 90.17 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0603WAF1002T5E"
+			(at 90.17 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:R0603"
+			(at 90.17 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_10KR-1002-1_C25804.html"
+			(at 90.17 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "10KΩ"
+			(at 90.17 94.488 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(厚声)"
+			(at 90.17 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1002T5E"
+			(at 90.17 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C25804"
+			(at 90.17 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "26a4a4b0-172c-46f9-a0f2-e196cfa12c12")
+		)
+		(pin "2"
+			(uuid "d72c867b-943b-4dac-b5c1-80ab2f0d8f16")
+		)
+		(instances
+			(project "pandahat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
+					(reference "R25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 59.69 138.43 270)
 		(unit 1)
@@ -3605,6 +4868,162 @@
 			(project "pandahat"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
 					(reference "#PWR089")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 158.75 118.11 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f45ac654-8fca-466a-bcef-4600c22c961c")
+		(property "Reference" "#PWR074"
+			(at 158.75 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 158.75 113.03 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 158.75 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 158.75 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 158.75 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c8e803b8-56f2-487e-be6e-a92809a53b4d")
+		)
+		(instances
+			(project "pandahat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
+					(reference "#PWR074")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 149.86 95.25 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f4fdbdd1-9345-4b6f-ac63-a58a291af180")
+		(property "Reference" "#PWR076"
+			(at 149.86 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 149.86 90.17 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 149.86 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 149.86 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 149.86 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "700d9e23-cf68-4f31-bb93-9e19c580e5cd")
+		)
+		(instances
+			(project "pandahat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -3831,6 +5250,197 @@
 			(project "pandahat"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
 					(reference "R30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 85.09 93.98 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fd2b24c1-c96b-4f20-a378-d80f2b04c1f6")
+		(property "Reference" "#PWR070"
+			(at 85.09 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 85.09 88.9 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 85.09 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 85.09 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fa437b0d-360c-4c48-b3bd-ab46ab11dc27")
+		)
+		(instances
+			(project "pandahat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
+					(reference "#PWR070")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "lol:0603WAF1002T5E")
+		(at 154.94 102.87 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fe15ebaa-ebce-4b9f-aea9-43473135a7a9")
+		(property "Reference" "R36"
+			(at 154.94 109.22 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0603WAF1002T5E"
+			(at 154.94 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:R0603"
+			(at 154.94 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_10KR-1002-1_C25804.html"
+			(at 154.94 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "10KΩ"
+			(at 154.94 106.172 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(厚声)"
+			(at 154.94 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1002T5E"
+			(at 154.94 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C25804"
+			(at 154.94 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c4837f04-e08c-4f59-a2b9-68b7b7458579")
+		)
+		(pin "2"
+			(uuid "619d5399-d65e-4d77-a70f-aba260f57899")
+		)
+		(instances
+			(project "pandahat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
+					(reference "R36")
 					(unit 1)
 				)
 			)
@@ -4243,6 +5853,174 @@
 		)
 	)
 	(sheet
+		(at 160.02 46.99)
+		(size 12.7 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "799639a6-16e0-48f7-9e85-1877009bcdd9")
+		(property "Sheetname" "Gpio expose6"
+			(at 173.482 50.038 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "gpio_expose.kicad_sch"
+			(at 160.02 52.6546 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PIN" bidirectional
+			(at 160.02 49.53 180)
+			(uuid "c4e449af-edab-43b9-8986-ea17c492fb40")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "pandahat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
+					(page "25")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 59.69)
+		(size 12.7 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7cc30391-b197-47e7-a373-9fc6ed89e5a8")
+		(property "Sheetname" "Gpio expose8"
+			(at 173.482 62.738 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "gpio_expose.kicad_sch"
+			(at 160.02 65.3546 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PIN" bidirectional
+			(at 160.02 62.23 180)
+			(uuid "1d301ebf-e567-4d88-b595-3063d8aa230e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "pandahat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
+					(page "27")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 39.37)
+		(size 12.7 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "84b25bd1-76fc-4c43-8b06-26552bb67a13")
+		(property "Sheetname" "Gpio expose5"
+			(at 173.228 42.672 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "gpio_expose.kicad_sch"
+			(at 160.02 45.0346 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PIN" bidirectional
+			(at 160.02 41.91 180)
+			(uuid "cb9535be-b4d2-4107-9120-ae3db02674fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "pandahat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
+					(page "24")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 31.75 135.89)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
@@ -4626,6 +6404,56 @@
 				(justify right)
 			)
 		)
+		(pin "PC13" bidirectional
+			(at 147.32 41.91 0)
+			(uuid "007f4ac5-edba-444a-8c57-1c1f6e1c3823")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PC14" bidirectional
+			(at 147.32 44.45 0)
+			(uuid "ea7d1402-4a89-4d6f-8141-6bd9d35755a0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PC15" bidirectional
+			(at 147.32 46.99 0)
+			(uuid "378231fd-1c49-4067-ac51-574faeac1074")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PD0" bidirectional
+			(at 147.32 49.53 0)
+			(uuid "d793cfdb-f2c2-48d6-a4eb-05ca022e1755")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PD1" bidirectional
+			(at 147.32 52.07 0)
+			(uuid "9266366b-8edd-4a10-b86b-35472e56c092")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "pandahat"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
@@ -4894,6 +6722,62 @@
 			(project "pandahat"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
 					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 53.34)
+		(size 12.7 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "bdd45bb5-0741-49b1-aa55-535a5a5f1663")
+		(property "Sheetname" "Gpio expose7"
+			(at 173.482 56.388 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "gpio_expose.kicad_sch"
+			(at 160.02 59.0046 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PIN" bidirectional
+			(at 160.02 55.88 180)
+			(uuid "286bc91f-1892-4b91-b72f-fad5d83487be")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "pandahat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9c6aa88d-0a18-4640-97a5-d19b2054e8d0"
+					(page "26")
 				)
 			)
 		)
